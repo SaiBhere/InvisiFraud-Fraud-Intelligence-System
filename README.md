@@ -16,3 +16,7 @@ detection, balance precision and recall, and suggest future enhancements, this s
 methodology, results, and limitations of InvisiFraud. The system shows how resampling, strong 
 machine learning models, and suitable metrics may greatly improve the precision and 
 effectiveness of fraud detection in practical financial applications.
+
+
+
+Link to the Dataset: https://data.world/vlad/credit-card-fraud-detection

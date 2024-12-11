@@ -1,3 +1,5 @@
+# InvisiFraud- Fraud Intelligence System
+
 Modern financial systems face a significant problem in detecting fraud, as the use of credit cards 
 and internet payments increases the likelihood of fraudulent behavior. Machine learning (ML) 
 and deep learning (DL) are crucial techniques for more dynamic detection because traditional 
